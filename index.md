@@ -17,9 +17,9 @@ shame he couldn't 'git commit' to being a better husband and father
 
 #### most ridiculous stereotypical movie names ####
 
--john Mclane
--hans gruber
--peter gruber
+- john Mclane
+- hans gruber
+- peter gruber
 
 #### least ridiculous sterotypical movie names ####
 1. Zeus T.Moose
@@ -28,6 +28,6 @@ shame he couldn't 'git commit' to being a better husband and father
 
 ### to do before bed ###
 - [x] worry about all your inadquecies
-- [] dental care routine
-- [] skin care routine 
+- [ ] dental care routine
+- [ ] skin care routine 
 
