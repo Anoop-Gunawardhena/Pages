@@ -1,4 +1,7 @@
-# Welcome to my website its very cool I promise
+# Welcome to my website its very cool I promise#
+
+##greeting##
+pls remember to drink water
 
 
 This site was built using [GitHub Pages](https://pages.github.com/).
@@ -33,4 +36,6 @@ shame he couldn't 'git commit' to being a better husband and father
 
 - [Chad 80s action hero with realistic body proportions](mclane.jpg)
 - [virgin falling to death 80s movie villain](gruber.jfif)
+
+require "greeting"
 
