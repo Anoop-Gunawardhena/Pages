@@ -10,6 +10,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 *it is actually more a seasonal flick that centres around how inconveneient the holidays could be*
 **Also it is _the absolute last_ time Bruce Willis was good as a leading man**
+
 ~~But we aleady knew that~~
 
 In the words of John Mclane
@@ -38,6 +39,5 @@ shame he couldn't 'git commit' to being a better husband and father
 - [virgin falling to death 80s movie villain](gruber.jfif)
 
 
-[reminder](https://github.com/Anoop-Gunawardhena/Pages/blob/main/index.md#to-do-before-bed).
-
+[reminder](https://github.com/Anoop-Gunawardhena/Pages/blob/main/index.md#greeting).
 
