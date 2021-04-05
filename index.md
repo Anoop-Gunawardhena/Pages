@@ -31,3 +31,6 @@ shame he couldn't 'git commit' to being a better husband and father
 - [ ] dental care routine
 - [ ] skin care routine 
 
+[Chad 80s action hero with realistic body proportions](mclane.jpg)
+[virgin falling to death 80s movie villain](gruber.jfif)
+
